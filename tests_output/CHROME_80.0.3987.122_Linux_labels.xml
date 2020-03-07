@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="labels"
+    errors="0" failures="0" hostname="" id="" package="labels" skipped="0"
+    tests="1" time="10.64" timestamp="">
+  
+    <testcase name="Add and remove label" classname="labels" time="10.64" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
