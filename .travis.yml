@@ -3,5 +3,5 @@ cache: npm
 node_js:
   - 12.14.1
 script:
-  - 'Build Starts'
-  
+  - echo 'Build Starts'
+  - echo 'Finish'
