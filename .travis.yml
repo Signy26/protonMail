@@ -1,5 +1,8 @@
 language: node_js
 cache: npm
+env:
+  - ENV_EMAIL=email
+  - ENV_PASS=pass
 node_js:
   - 12.14.1
 script:
