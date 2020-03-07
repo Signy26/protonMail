@@ -4,4 +4,5 @@ node_js:
   - 12.14.1
 script:
   - echo 'Build Starts'
+  -ENV_EMAIL=ENV_EMAIL ENV_PASS=ENV_PASS./node_modules/.bin/nightwatch tests
   - echo 'Finish'
